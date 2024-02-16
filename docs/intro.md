@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Aelf Developer Workshop - Feb 2024
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **How to write Smart Contract in C#**.
 
 ## Getting Started
 
