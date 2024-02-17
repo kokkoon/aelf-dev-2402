@@ -53,7 +53,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            `https://github.com/${organizationName}/${projectName}/,
+            `https://github.com/${organizationName}/${projectName}/`,
         },
         theme: {
           customCss: './src/css/custom.css',
