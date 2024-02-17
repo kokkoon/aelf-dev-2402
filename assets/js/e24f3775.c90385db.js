@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaelf_dev_2402=self.webpackChunkaelf_dev_2402||[]).push([[3602],{9268:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/aelf-dev-2402/blog/tags/hola","allTagsPath":"/aelf-dev-2402/blog/tags","count":1,"unlisted":false}')}}]);
